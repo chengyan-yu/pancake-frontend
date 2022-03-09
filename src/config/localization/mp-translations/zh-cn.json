@@ -1,3 +1,5 @@
 {
-  "mp-test": "这是一个测试"
+  "mp-test": "这是一个测试",
+  "import-token-warning-message-in-mini-1": "任何人都可以在 BNB Chain 上使用任意名称建立 BEP20 代币，包括建立虚假版本的现有代币及声称代表没有代币专案的代币。在 PancakeSwap 上购买及交易代币必须注意风险管理，承受相关交易风险及招致的亏损。此 Extended 代币清单仅包含过去有与 PancakeSwap 合作过的项目的代币，PancakeSwap 不能保证任何代币的投资价值及品质。",
+  "import-token-warning-message-in-mini-2": "倘阁下继续导入该清单及其代币，表示阁下清楚明白其中风险，并同意承受任何交易的相关风险及可能招致的亏损。"
 }
